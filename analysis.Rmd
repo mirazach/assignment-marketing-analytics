@@ -1,7 +1,6 @@
 ---
 title: "Retail Marketing Analytics Assignment"
 subtitle: "Evaluating the impact of hired salespeople on espresso machine sales"
-author: "Miranda Zachopoulou (01918940)"
 output: 
   html_document:
     toc: true
